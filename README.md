@@ -1,0 +1,2 @@
+# Public Files Repository
+This repository serves as a storage space for public files used in the Ghostly Network. It allows us to share and distribute public server files, such as resource packs and other server assets with our players.
